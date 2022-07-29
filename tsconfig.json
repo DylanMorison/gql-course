@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["DOM", "es6"],
+		"module": "CommonJS",
+		"rootDir": "src",
+		"outDir": "dist",
+		"removeComments": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": false,
+		"strict": true,
+		"skipLibCheck": true
+	}
+}
